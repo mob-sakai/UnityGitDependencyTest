@@ -16,3 +16,6 @@ Desktop.ini
 /Temp
 .vs
 obj
+.idea/
+Assets/Plugins.meta
+Assets/Plugins/
