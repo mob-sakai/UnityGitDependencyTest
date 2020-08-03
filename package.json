@@ -1,0 +1,14 @@
+{
+  "name": "com.coffee.ugd.rotate-it",
+  "displayName": "Rotate It",
+  "description": "Rotate It",
+  "version": "1.0.0",
+  "unity": "2018.3",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mob-sakai/UnityGitDependencyTest.git"
+  },
+  "author": "mob-sakai <sakai861104@gmail.com> (https://github.com/mob-sakai)",
+  "dependencies": {}
+}
