@@ -2,7 +2,7 @@
   "name": "com.coffee.ugd.transform-it",
   "displayName": "Transform It",
   "description": "Transform It",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "unity": "2018.3",
   "license": "MIT",
   "repository": {
@@ -12,7 +12,7 @@
   "author": "mob-sakai <sakai861104@gmail.com> (https://github.com/mob-sakai)",
   "dependencies": {},
   "gitDependencies": {
-    "com.coffee.ugd.translate-it": "https://github.com/mob-sakai/UnityGitDependencyTest.git?path=Packages/translate-it#package-v1",
-    "com.coffee.ugd.rotate-it": "https://github.com/mob-sakai/UnityGitDependencyTest.git?path=Packages/rotate-it#package-v1"
+    "com.coffee.ugd.translate-it": "https://github.com/mob-sakai/UnityGitDependencyTest.git?path=Packages/translate-it#package-v1.1",
+    "com.coffee.ugd.rotate-it": "https://github.com/mob-sakai/UnityGitDependencyTest.git?path=Packages/rotate-it#package-v1.1"
   }
 }
