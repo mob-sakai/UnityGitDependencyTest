@@ -14,7 +14,7 @@ namespace Coffee.Ugd
 
         public static void Rotate(Transform t, Vector3 v)
         {
-            t.Rotate(v.x, v.y, v.z);
+            t.Rotate(Math.GetX(v), Math.GetX(v), Math.GetX(v));
         }
     }
 }

@@ -1,6 +1,7 @@
 {
     "name": "Coffee.Ugd.RotateIt",
     "references": [
+        "Coffee.Ugd.Math"
     ],
     "optionalUnityReferences": [],
     "includePlatforms": [],

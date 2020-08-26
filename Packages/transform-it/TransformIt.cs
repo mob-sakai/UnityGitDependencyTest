@@ -16,12 +16,12 @@ namespace Coffee.Ugd
 
         public static void Translate(Transform t, Vector3 v)
         {
-            t.Translate(v.x, v.y, v.z);
+            TranslateIt.Translate(t, v);
         }
 
         public static void Rotate(Transform t, Vector3 v)
         {
-            t.Rotate(v.x, v.y, v.z);
+            RotateIt.Rotate(t, v);
         }
     }
 }

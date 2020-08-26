@@ -1,6 +1,9 @@
 {
     "name": "Coffee.Ugd.TransformIt",
-    "references": [],
+    "references": [
+        "Coffee.Ugd.TranslateIt",
+        "Coffee.Ugd.RotateIt"
+    ],
     "optionalUnityReferences": [],
     "includePlatforms": [],
     "excludePlatforms": [],
