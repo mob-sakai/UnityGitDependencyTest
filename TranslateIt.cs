@@ -14,7 +14,7 @@ namespace Coffee.Ugd
 
         public static void Translate(Transform t, Vector3 v)
         {
-            t.Translate(v.x, v.y, v.z);
+            t.Translate(Math.GetX(v), Math.GetX(v), Math.GetX(v));
         }
     }
 }

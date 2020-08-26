@@ -1,6 +1,7 @@
 {
     "name": "Coffee.Ugd.TranslateIt",
     "references": [
+        "Coffee.Ugd.Math"
     ],
     "optionalUnityReferences": [],
     "includePlatforms": [],

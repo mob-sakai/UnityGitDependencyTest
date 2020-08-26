@@ -2,7 +2,7 @@
   "name": "com.coffee.ugd.translate-it",
   "displayName": "Translate It",
   "description": "Translate It",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "unity": "2018.3",
   "license": "MIT",
   "repository": {
@@ -10,5 +10,8 @@
     "url": "git+https://github.com/mob-sakai/UnityGitDependencyTest.git"
   },
   "author": "mob-sakai <sakai861104@gmail.com> (https://github.com/mob-sakai)",
-  "dependencies": {}
+  "dependencies": {},
+  "gitDependencies": {
+    "com.coffee.ugd.math": "https://github.com/mob-sakai/UnityGitDependencyTest.git?path=Packages/math#package-v1"
+  }
 }
